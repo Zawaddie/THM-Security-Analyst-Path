@@ -20,65 +20,59 @@ The roadmap has 4 separate paths that I have walked through and documented my jo
 
 [PATH A. SOC LEVEL 1]()
    
-**MODULE 1: Junior Security Analysis Intro**
+**MODULE 1: Junior Security Analysis Intro**   ✅
 
-**MODULE 2: SOC Role in Blue Team**
+**MODULE 2: SOC Role in Blue Team**            ✅
 
 **MODULE 3: Humans as attack Vectors**
 
 **MODULE 4: Systems as Attack Vectors**
 
 **MODULE 5: SOC Team internals**
-
-    1. SOC L1 Alert Triage
-    2. SOC L1 Alert Reporting
-    3. SOC workbooks and LookUPs
-    4. SOC Metrics and Objectives
-    5. Introduction to Phishing
+  1. SOC L1 Alert Triage           ✅
+  2. SOC L1 Alert Reporting        ✅
+  3. SOC workbooks and LookUPs     ✅
+  4. SOC Metrics and Objectives
+  5. Introduction to Phishing
 
 **MODULE 5: Core SOC Solutions**
-
-    1. Introduction to EDR
-    2. Introduction to SIEM
-    3. Splunk: The Basics
-    4. Elastic Stack: The Basics
-    5. Introduction to SOAR
+1. Introduction to EDR
+2. Introduction to SIEM
+3. Splunk: The Basics
+4. Elastic Stack: The Basics
+5. Introduction to SOAR
 
 **MODULE 6: Cyber Defence Frameworks**
-
-   1.Pyramid of Pain.
-   2.Cyber Kill Chain
-   3. Unified Kill Chain
-   5. MITRE
-   6.Summit
-   7.Eviction
+1. Pyramid of Pain.
+2. Cyber Kill Chain
+3. Unified Kill Chain
+4. MITRE
+5. Summit
+6. Eviction
 
 **MODULE 7: Phishing Analysis**
-
-   1. Phishing Analysis Fundamentals
-   2. Phishing Emails in action
-   3. Phishing Analysis Tools
-   4. Phishing prevention
-   5. The Greenholt Phish
-   6. Snapped Phish-ing Line
-   7. Phishing Unfolding
+1. Phishing Analysis Fundamentals
+2. Phishing Emails in action
+3. Phishing Analysis Tools
+4. Phishing prevention
+5. The Greenholt Phish
+6. Snapped Phish-ing Line
+7. Phishing Unfolding
 
 **MODULE 8: Network Traffic Analysis**
-
-    1. Network Traffic Basics
-    2. Wireshark: The Basics
-    3. Wireshark: Packet Operations
-    4. Wireshark: Traffic Analysis
-    5. NetworkMiner
+1. Network Traffic Basics
+2. Wireshark: The Basics
+3. Wireshark: Packet Operations
+4. Wireshark: Traffic Analysis
+5. NetworkMiner
 
 **MODULE 9: Network Security Monitoring**
-
-    1.Network Security Essentials
-    2. Network Discovery Detection
-    3. Data Exfiltration Detection
-    4. Man-in-the-Middle Detection
-    5. ID Fundamentals
-    6. Snort
+1. Network Security Essentials
+2. Network Discovery Detection
+3. Data Exfiltration Detection
+4. Man-in-the-Middle Detection
+5. ID Fundamentals
+6. Snort
 
 **MODULE 10: Web Security Monitoring**
 
@@ -96,12 +90,11 @@ The roadmap has 4 separate paths that I have walked through and documented my jo
    4. Windows Threat Detection 3
 
 **MODULE 12: Linux Security Monitoring**
-
-   1.Linux Logging for SOC
-   2. Linux Threat Detection 1
-   3. Linux Threat Detection 2
-   4. Linux Threat Detection 3
-   5. BlackCat
+1. Linux Logging for SOC
+2. Linux Threat Detection 1
+3. Linux Threat Detection 2
+4. Linux Threat Detection 3
+5. BlackCat
 
 **MODULE 13: Malware Concepts for SOC**
 
@@ -145,7 +138,7 @@ The roadmap has 4 separate paths that I have walked through and documented my jo
 
 ---
 
-## 🛡️ Security Analyst — TryHackMe Path
+## THM Security Analyst Status: COMPLETED
 
 Completed the **TryHackMe Security Analyst Path**, gaining hands-on experience in detecting, analyzing, and responding to security threats across enterprise environments. This path focuses on the *defender’s perspective*, emphasizing real-world SOC operations, threat detection, and incident response workflows.
 
