@@ -20,18 +20,16 @@ The roadmap has 4 separate paths that I have walked through and documented my jo
 
 [PATH A. SOC LEVEL 1]()
    
-**MODULE 1: Junior Security Analysis Intro**   ✅
-
-**MODULE 2: SOC Role in Blue Team**            ✅
-
-**MODULE 3: Humans as attack Vectors**
-
-**MODULE 4: Systems as Attack Vectors**
+**MODULE 1: Blue Team Introduction** 
+1. Junior Security Analysis Intro          ✅
+2. SOC Role in Blue Team                   ✅
+3. Humans as attack Vectors
+4. Systems as Attack Vectors
 
 **MODULE 5: SOC Team internals**
-  1. SOC L1 Alert Triage           ✅
-  2. SOC L1 Alert Reporting        ✅
-  3. SOC workbooks and LookUPs     ✅
+  1. SOC L1 Alert Triage                 ✅
+  2. SOC L1 Alert Reporting              ✅
+  3. SOC workbooks and LookUPs           ✅
   4. SOC Metrics and Objectives
   5. Introduction to Phishing
 
