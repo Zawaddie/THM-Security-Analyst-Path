@@ -5,17 +5,20 @@
 
 
 ## Security Analyst's Journey
+
 **Cyber security** = a world of evolving threats, where every click could hide an attack, and every attack could destroy the business. 
 **Defenders** => analyze attacks, stop breaches, and keep companies safe. 
 
 **Starting a SOC Analyst journey from TryHackMe:**
 
 **Scenario**
+
 You start your work day from a quick scrolling through the cyber news for the last week. 
 As usual, big companies are getting breached, threat groups are running full-scale attacks, and new vulnerabilities are popping here and there. 
 You are the first line of defense, and every day you protect your company from apearing in the cyber news.
 
 **Junior SOC Analyst's Daily Duties**
+
 Also called a SOC Level 1 Analyst. Works in a 24/7 SOC team and mostly review the security alerts. 
 During a work shift, the analyst would typically:
 
@@ -60,3 +63,4 @@ Even better, it is fascinating to know how the attacks you hear about in the new
 
 
   
+
