@@ -12,5 +12,7 @@ Completed the 4 Rooms in the Module:
   
   **4. Systems as Attack Vectors**
 
-  
+  <img width="487" height="271" alt="image" src="https://github.com/user-attachments/assets/d27a9fcb-4fc8-4443-97a6-664a284d84ca" />
+
+
 
