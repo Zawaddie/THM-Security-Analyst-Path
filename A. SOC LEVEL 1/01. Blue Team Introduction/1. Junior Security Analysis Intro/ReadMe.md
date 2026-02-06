@@ -28,7 +28,7 @@ You are the first line of defense, and every day you protect your company from a
 - Constantly learns and discovers new attacks and defenses
 
 
-## Security Operations Center (SOC)
+**Security Operations Center (SOC)**
   
 A team working together in monitoring the alerts and securing the whole company.
   
@@ -49,7 +49,7 @@ Along the way, you'll have many lessons and challenges, where you may:
 - Team up with your teammates to build detection rules and automations
 - Go beyond cyber and understand how companies operate from the inside
 
-## Being a Security Analyst
+**Being a Security Analyst**
 
 Being in the defensive frontline is not easy, as you have to constantly learn new things. 
 
@@ -63,5 +63,6 @@ Even better, it is fascinating to know how the attacks you hear about in the new
 
 
   
+
 
 
