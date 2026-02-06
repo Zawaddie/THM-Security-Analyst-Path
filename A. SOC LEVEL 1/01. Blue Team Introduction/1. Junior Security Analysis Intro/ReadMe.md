@@ -4,9 +4,11 @@
 
 
 
-## Security Analyst's Journey
+## My TakeHomes From the Room
 
-**Cyber security** = a world of evolving threats, where every click could hide an attack, and every attack could destroy the business. 
+ **Security Analyst's Journey**
+
+**Cyber security** => a world of evolving threats, where every click could hide an attack, and every attack could destroy the business. 
 **Defenders** => analyze attacks, stop breaches, and keep companies safe. 
 
 **Starting a SOC Analyst journey from TryHackMe:**
@@ -17,23 +19,21 @@ You start your work day from a quick scrolling through the cyber news for the la
 As usual, big companies are getting breached, threat groups are running full-scale attacks, and new vulnerabilities are popping here and there. 
 You are the first line of defense, and every day you protect your company from apearing in the cyber news.
 
-**Junior SOC Analyst's Daily Duties**
+**Junior SOC Analyst's (SOC Level 1 Analyst) Daily Duties**
 
-Also called a SOC Level 1 Analyst. Works in a 24/7 SOC team and mostly review the security alerts. 
-During a work shift, the analyst would typically:
-
-- Monitor and investigate various security alerts
-- Participate in SOC brainstorms and workshops
+- Works in a 24/7 SOC team and mostly review the security alerts. 
+- Monitors and investigates various security alerts
+- Participates in SOC brainstorms and workshops
 - Cooperate with other teams to keep the company safe
-- Constantly learn and discover new attacks and defenses
+- Constantly learns and discovers new attacks and defenses
 
 
 ## Security Operations Center (SOC)
   
-You are not alone in monitoring the alerts and securing the whole company.
-A lot of people support you with your job.
+A team working together in monitoring the alerts and securing the whole company.
   
   - SOC engineers are configuring the security tools,
+  - Junior SOC Analyst's monitoring and triaging alerts
   - senior analysts are helping with complex attacks, 
   - Security manager is trying to keep everything under control.
     
@@ -63,4 +63,5 @@ Even better, it is fascinating to know how the attacks you hear about in the new
 
 
   
+
 
