@@ -8,11 +8,12 @@ Completed the 4 Rooms in the Module:
   
   **2. SOC Role in Blue Team**
   
-  **3. Humans as attack Vectors**
+  **3. Humans as attack Vectors** PREMIUM ROOM
   
-  **4. Systems as Attack Vectors**
+  **4. Systems as Attack Vectors** PREMIUM ROOM
 
   <img width="487" height="271" alt="image" src="https://github.com/user-attachments/assets/d27a9fcb-4fc8-4443-97a6-664a284d84ca" />
+
 
 
 
