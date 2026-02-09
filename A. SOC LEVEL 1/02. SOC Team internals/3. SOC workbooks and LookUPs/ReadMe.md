@@ -33,12 +33,13 @@ The workbook is divided into three logical groups.
 By following the steps in the correct order, you can guarantee high-quality alert triage and eliminate cases where the verdict is made without enough evidence:
 
 - **Enrichment:** Use Threat Intelligence and identity inventory to get information about the affected user
--**Investigation:** Using the gathered data and SIEM logs, make your verdict if the login is expected
--**Escalation:** Escalate the alert to L2 or communicate the login with the user if necessary
+- **Investigation:** Using the gathered data and SIEM logs, make your verdict if the login is expected
+- **Escalation:** Escalate the alert to L2 or communicate the login with the user if necessary
 
   <img width="969" height="531" alt="image" src="https://github.com/user-attachments/assets/45c1212c-3b9c-4972-bc27-6ef721c35957" />
 
   
+
 
 
 
