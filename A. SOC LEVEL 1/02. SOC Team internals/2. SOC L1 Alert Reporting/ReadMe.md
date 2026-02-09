@@ -32,6 +32,29 @@ Recommended to follow the [Five Ws approach](https://en.wikipedia.org/wiki/Five_
 
 <img width="1327" height="590" alt="image" src="https://github.com/user-attachments/assets/d4f06a01-84f0-48ed-88df-6b3c0f312bad" />
 
+**Alert Escalation Guide**
+
+Escalate the alerts if:
+
+- The alert is an indicator of a major cyberattack requiring deeper investigation or DFIR
+- Remediation actions like malware removal, host isolation, or password reset are required
+- Communication with customers, partners, management, or law enforcement agencies is required
+- You just do not fully understand the alert and need some help from more senior analysts
+
+<img width="1361" height="404" alt="image" src="https://github.com/user-attachments/assets/63733f8c-e446-448b-94ae-c1b76e9d5992" />
+
+As an L1 Analyst, you can request L2 support:
+
+<img width="1350" height="341" alt="image" src="https://github.com/user-attachments/assets/0d4a23cc-094b-4fee-a7ab-ef3ca13aa826" />
+
+
+The SOC team has its own Crisis Communication procedures - the guides and processes to help you and your teammates resolve the issues. 
+
+<img width="1355" height="408" alt="image" src="https://github.com/user-attachments/assets/a896481a-51ee-4696-bf72-90e171522533" />
+
+
+
+
 
 
 
