@@ -100,6 +100,13 @@ Steps to upload the data successfully:
 
   <img width="1358" height="489" alt="image" src="https://github.com/user-attachments/assets/bd96af7f-9c30-477f-afde-846d4583fc8d" />
 
+ Other Recommended Splunk walkthrough and challenge rooms to help understand how Splunk is effectively used in investigating incidents.
+
+- [Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
+- [Incident Handling with Splunk](https://tryhackme.com/room/splunk201)
+- [Investigating With Splunk](http://tryhackme.com/jr/investigatingwithsplunk)
+- [Benign - Challenge](http://tryhackme.com/jr/benign)
+- [PoshEclipse - Challenge](http://tryhackme.com/jr/posheclipse)
 
 
 
