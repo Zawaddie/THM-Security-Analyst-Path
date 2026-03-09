@@ -60,5 +60,24 @@ In all these tasks, SOC works on multiple tools and communicates with various te
 - **Manual Processes:** SOC investigation procedures are often not documented, leading to inefficient means of addressing threats. Most rely on established tribal knowledge built by experienced analysts, and the processes are never documented. This results in slowing down the investigation and increasing response times.
 - **Talent Shortage:** SOC teams find recruiting and expanding their talent pool difficult to address the growing security landscape and sophisticated threats. 
 
+---
+
+# The SOAR Solution
+
+Security Orchestration, Automation, and Response (SOAR) unifies all the security tools used in a SOC. 
+
+With SOAR, SOC analysts do not need to switch between SIEM, EDR, Firewall, and other security tools for their investigations but can operate all these tools within a single SOAR interface. 
+
+Along with unifying the security tools, it also provides ticketing and case management features to document, track, and resolve incidents in a structured way.
+
+<img width="872" height="415" alt="image" src="https://github.com/user-attachments/assets/1c280f8a-0319-498e-85fc-2643fc2af30e" />
+
+The core strength of a SOAR tool comes from the following three main capabilities:
+
+1. **Orchestration**
+2. **Automation**
+3. **Response**
+
+<img width="842" height="429" alt="image" src="https://github.com/user-attachments/assets/45adf704-9952-4779-bd84-ea0b3f0896ce" />
 
 
