@@ -19,52 +19,54 @@ The roadmap has 4 separate paths that I have walked through and documented my jo
 
 
 [PATH A. SOC LEVEL 1]()
-   
-**MODULE 1: Blue Team Introduction** 
+ 
+ A path with 14 Modules
+ 
+**MODULE 01: Blue Team Introduction** 
 1. Junior Security Analysis Intro          ✅
 2. SOC Role in Blue Team                   ✅
 3. Humans as attack Vectors
 4. Systems as Attack Vectors
 
-**MODULE 5: SOC Team internals**
+**MODULE 02: SOC Team internals**
   1. SOC L1 Alert Triage                 ✅
   2. SOC L1 Alert Reporting              ✅
   3. SOC workbooks and LookUPs           ✅
-  4. SOC Metrics and Objectives
-  5. Introduction to Phishing
+  4. SOC Metrics and Objectives          ✅
+  5. Introduction to Phishing            ✅
 
-**MODULE 5: Core SOC Solutions**
-1. Introduction to EDR
-2. Introduction to SIEM
-3. Splunk: The Basics
-4. Elastic Stack: The Basics
-5. Introduction to SOAR
+**MODULE 03: Core SOC Solutions**
+1. Introduction to EDR                   ✅
+2. Introduction to SIEM                  ✅
+3. Splunk: The Basics                    ✅
+4. Elastic Stack: The Basics             ✅
+5. Introduction to SOAR                  ✅
 
-**MODULE 6: Cyber Defence Frameworks**
-1. Pyramid of Pain.
-2. Cyber Kill Chain
-3. Unified Kill Chain
-4. MITRE
-5. Summit
-6. Eviction
+**MODULE 04: Cyber Defence Frameworks**
+1. Pyramid of Pain.                       ✅
+2. Cyber Kill Chain                       ✅
+3. Unified Kill Chain                     ✅
+4. MITRE                                  ✅
+5. Summit                                 ✅
+6. Eviction                               ✅
 
-**MODULE 7: Phishing Analysis**
-1. Phishing Analysis Fundamentals
-2. Phishing Emails in action
-3. Phishing Analysis Tools
-4. Phishing prevention
-5. The Greenholt Phish
-6. Snapped Phish-ing Line
-7. Phishing Unfolding
+**MODULE 05: Phishing Analysis**
+1. Phishing Analysis Fundamentals         ✅
+2. Phishing Emails in action              ✅
+3. Phishing Analysis Tools                ✅
+4. Phishing prevention                    ✅
+5. The Greenholt Phish                    ✅
+6. Snapped Phish-ing Line                 ✅
+7. Phishing Unfolding                     ✅
 
-**MODULE 8: Network Traffic Analysis**
+**MODULE 06: Network Traffic Analysis**
 1. Network Traffic Basics
 2. Wireshark: The Basics
 3. Wireshark: Packet Operations
 4. Wireshark: Traffic Analysis
 5. NetworkMiner
 
-**MODULE 9: Network Security Monitoring**
+**MODULE 07: Network Security Monitoring**
 1. Network Security Essentials
 2. Network Discovery Detection
 3. Data Exfiltration Detection
@@ -72,7 +74,7 @@ The roadmap has 4 separate paths that I have walked through and documented my jo
 5. ID Fundamentals
 6. Snort
 
-**MODULE 10: Web Security Monitoring**
+**MODULE 08: Web Security Monitoring**
 
    1. Web Security Essentials
    2. Detecting Web attacks
@@ -80,35 +82,35 @@ The roadmap has 4 separate paths that I have walked through and documented my jo
    4. Detecting Web DDoS
    5. Upload and Conquer
 
-**MODULE 11: Windows Security Monitoring**
+**MODULE 09: Windows Security Monitoring**
 
    1. Windows Logging for SOC
    2. Windows Threat Detection 1
    3. Windows Threat Detection 2
    4. Windows Threat Detection 3
 
-**MODULE 12: Linux Security Monitoring**
+**MODULE 10: Linux Security Monitoring**
 1. Linux Logging for SOC
 2. Linux Threat Detection 1
 3. Linux Threat Detection 2
 4. Linux Threat Detection 3
 5. BlackCat
 
-**MODULE 13: Malware Concepts for SOC**
+**MODULE 11: Malware Concepts for SOC**
 
    1. Malware Classification
    2. Intro to Malware Analysis
    3. Living Off the Land Attacks
    4. Shadow Trace
 
-**MODULE 14: Threat Analysis Tools**
+**MODULE 12: Threat Analysis Tools**
 
    1. Intro to Cyber Threat Intel
    2. File and Hash Threat Intel
    3. IP and Domain Threat Intel
    4. Invite Only
 
-**MODULE 15: SIEM Triage For SOC**
+**MODULE 13: SIEM Triage For SOC**
 
    1. Log Analysis with SIEM 
    2. Alert Triage With Splunk
@@ -116,7 +118,7 @@ The roadmap has 4 separate paths that I have walked through and documented my jo
    4. ItyBity
    5. Benign
 
-**MODULE 16: SOC Level 1 capstone Challenges**
+**MODULE 14: SOC Level 1 capstone Challenges**
 
    1. Tempest
    2. Boogeyman 1
