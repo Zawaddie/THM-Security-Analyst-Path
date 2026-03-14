@@ -1,4 +1,4 @@
-# Introduction to SOAR(Security Orchestration, Automation, and Response)
+# Introduction to SOAR<br>(Security Orchestration, Automation, and Response)
 
 To defend against attacks, a SOC team relies on various security solutions, such as SIEM, EDR, firewalls, and threat intelligence platforms. 
 
@@ -80,4 +80,29 @@ The core strength of a SOAR tool comes from the following three main capabilitie
 
 <img width="842" height="429" alt="image" src="https://github.com/user-attachments/assets/45adf704-9952-4779-bd84-ea0b3f0896ce" />
 
+
+---
+
+## Building SOAR Playbooks
+
+**Playbooks**: Pre-defined documented steps of handling and incident.
+
+**SOAR Playbooks** Pre-defined workflows that tell the SOAR tool what actions to take during a specific investigation. 
+
+SOC analysts make playbooks for a general category of recurring alerts. 
+
+sample playbooks for:
+1. Phishing
+2. CVE Patching. 
+
+### Phishing Playbook
+
+
+
+
+
+
+
+
+### CVE Patching Playbook
 
