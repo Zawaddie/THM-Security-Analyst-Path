@@ -101,8 +101,7 @@ sample playbooks for:
 
 
 
-
-
-
 ### CVE Patching Playbook
+
+
 
