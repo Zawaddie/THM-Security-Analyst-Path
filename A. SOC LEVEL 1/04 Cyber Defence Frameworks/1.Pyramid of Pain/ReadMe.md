@@ -115,7 +115,23 @@ Attackers can:
 🔹 **Pain to attacker:** Low
 🔹 **Why:** They can quickly change infrastructure.
 
+[ANY.RUN](https://app.any.run/) can be used  to check malacious IPs.
 
+[ANY.RUN](https://app.any.run/) is an online malware analysis sandbox used by cybersecurity professionals to safely analyze suspicious files, links, or malware in a controlled virtual environment.
+
+Instead of running a suspicious file on your own computer, you upload it to ANY.RUN and watch how it behaves in a virtual machine.
+
+<img width="1355" height="725" alt="image" src="https://github.com/user-attachments/assets/e8bc68db-b361-4102-ad3f-b64ff770d5d2" />
+
+One of the ways an adversary can make it challenging to successfully carry out IP blocking is by using **Fast Flux**.
+
+According to [Akamai](https://www.akamai.com/blog/security/digging-deeper-an-in-depth-analysis-of-a-fast-flux-network), Fast Flux is a DNS technique used by botnets to hide phishing, web proxying, malware delivery, and malware communication activities behind compromised hosts acting as proxies. 
+
+The purpose of using the **Fast Flux** network is to make the communication between malware and its command and control server (C2) challenging to be discovered by security professionals. 
+
+So, the primary concept of a Fast Flux network is having multiple IP addresses associated with a domain name, which is constantly changing. 
+
+Palo Alto created a great fictional scenario to explain Fast Flux: ["Fast Flux 101: How Cybercriminals Improve the Resilience of Their Infrastructure to Evade Detection and Law Enforcement Takedowns"](https://unit42.paloaltonetworks.com/fast-flux-101/)
 
 ---
 
