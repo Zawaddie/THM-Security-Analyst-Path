@@ -97,11 +97,11 @@ sample playbooks for:
 
 ### Phishing Playbook
 
-
-
+<img width="787" height="614" alt="image" src="https://github.com/user-attachments/assets/0a18b4a9-a677-43e0-bc11-7dd7ec57b307" />
 
 
 ### CVE Patching Playbook
 
+<img width="1354" height="440" alt="image" src="https://github.com/user-attachments/assets/83132630-a084-4711-88cb-77e317cae24a" />
 
 
